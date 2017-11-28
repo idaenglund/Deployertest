@@ -7,7 +7,7 @@ require 'recipe/common.php';
 set('application', 'idas-test-blogg');
 
 // Project repository
-set('repository', 'git@github.com:chas-academy/05-dynamisk-webbplats-php-idaenglund.git');
+set('repository', 'git@github.com:idaenglund/Deployertest.git');
 
 // [Optional] Allocate tty for git clone. Default value is false.
 set('git_tty', true); 
